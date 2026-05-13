@@ -1,0 +1,11 @@
+print(5+2)
+print(5-2)
+
+print(5*2)
+print(5/2)
+print(5%2)
+print(5//2)
+print(5**2)
+print(4%8)
+print(6/9)
+print(5+2-3*5+6/9-2**2%8)
